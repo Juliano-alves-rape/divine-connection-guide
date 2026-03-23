@@ -16,7 +16,7 @@ const AuthorSection = () => (
             <div className="absolute -inset-3 bg-gradient-to-br from-gold-light/30 to-rose-light/40 rounded-full blur-2xl" />
             <img
               src={autoraImg}
-              alt="Pastora Sara - Autora do ebook À Mesa"
+              alt="Sara Rapá - Autora do ebook À Mesa"
               loading="lazy"
               width={800}
               height={1000}
